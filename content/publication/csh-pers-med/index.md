@@ -20,7 +20,7 @@ publishDate: "2017-07-14T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cold Spring Harbor Perspectives in Medicine"
+publication: "Cold Spring Harbor Perspectives in Medicine, 8(5):a028381"
 publication_short: ""
 
 abstract: The advent and application of next-generation sequencing (NGS) technologies to tumor genomes has reinvigorated efforts to understand clonal evolution. Although tumor progression has traditionally been viewed as a gradual stepwise process, recent studies suggest that evolutionary rates in tumors can be variable with periods of punctuated mutational bursts and relative stasis. For example, Big Bang dynamics have been reported, wherein after transformation, growth occurs in the absence of stringent selection, consistent with effectively neutral evolution. Although first noted in colorectal tumors, effective neutrality may be relatively common. Additionally, punctuated evolution resulting from mutational bursts and cataclysmic genomic alterations have been described. In this review, we contrast these findings with the conventional gradualist view of clonal evolution and describe potential clinical and therapeutic implications of different evolutionary modes and tempos.
