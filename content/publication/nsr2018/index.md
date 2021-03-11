@@ -5,7 +5,7 @@ authors:
 - Yuxin Chen
 - Ding Tong
 - Shaoping Ling
-**- Zheng Hu**
+- Zheng Hu
 - Yong Tao
 - Xuemei Lu
 - Chung-I Wu
