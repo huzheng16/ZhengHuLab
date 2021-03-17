@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Deciphering the natural history of metastatic dissemination with patient genomic data"
+title = "Deciphering the timing and origins of metastasis with patient genomic data"
 
 # Date this page was created.
 # date = 2019-10-14T16:32:42+13:00
