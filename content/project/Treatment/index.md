@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "How drug treatment shapes the evolutionary trajectories of metastatic replase?"
+title = "How drug treatment shapes tumour evolutionary trajectories?"
 
 # Date this page was created.
 # date = 2019-10-14T16:32:42+13:00
