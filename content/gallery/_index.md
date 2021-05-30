@@ -14,5 +14,3 @@ view: 3
 #  caption: ""
 # image: ""
 ---
-
-{{< gallery >}}
