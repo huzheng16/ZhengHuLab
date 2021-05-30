@@ -1,6 +1,6 @@
 +++
 # Demo widget.
-widget = "demo"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
@@ -53,4 +53,3 @@ title = "Wellcome to Zheng Hu Lab"
   #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-<a id="academic-release" img="static/img/headers/equality.png"></a>
