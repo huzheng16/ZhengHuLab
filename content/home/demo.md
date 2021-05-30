@@ -1,19 +1,16 @@
 +++
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
-
-widget = "blank"  # See https://wowchemy.com/docs/page-builder/
+# Demo widget.
+widget = "demo"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 3  # Order that this section will appear.
 
-# title = "Academic Template"
-subtitle = ""
+# date = 2021-05-30
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+title = "Wellcome to Zheng Hu Lab"
+
+# Hero image (optional). Enter filename of an image in the `static/img/` folder.
+# demo_media = "Shezhen.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -22,34 +19,38 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  color = "#666"
   
   # Background gradient.
-  # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
   
   # Background image.
-  image = "welcome.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "Shenzhen.jpg"  # Name of image in `static/img/`.
+  image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
 
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["30px", "10px", "30px", "10px"]
+  # Call to action links (optional).
+  #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
+  #   Remove a link/note by deleting a cta/note block.
+  # [cta]
+  #   url = "https://sourcethemes.com/academic/docs/install/"
+  #   label = "Get Started"
+  #   icon_pack = "fas"
+  #   icon = "download"
+  
+  # [cta_alt]
+  #   url = "https://sourcethemes.com/academic/"
+  #   label = "View Documentation"
 
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
+  # Note. An optional note to show underneath the links.
+  # [cta_note]
+  #   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-## Welcome to Zheng Hu Lab
-
-
+<a id="academic-release" img="static/img/headers/equality.png"></a>
