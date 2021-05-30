@@ -1,12 +1,23 @@
 /*disable parallax for background image on mobile*/
-html, body {
-    height: 100%;
-}
-html {
-    overflow-y: hidden;
-}
+
 body {
-    overflow-y: scroll;
-    background-color:#000000;
-    background-image:url('../../static/media/Shenzhen.png');
+  font-family: inherit;
+  font-size: 0.9rem;
+  line-height: inherit;
+  color: inherit;
+  margin-top: 71px; /* Offset body content by navbar height. */
+  padding-top: 0;
+  counter-reset: captions;
+}
+
+@media screen and (max-width: 1200px) { /* Match max-width of .nav-bar query. */
+  body {
+    margin-top: 51px; /* Offset body content by navbar height. */
+  }
+}
+
+/* Body text */
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
