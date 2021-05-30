@@ -9,8 +9,8 @@ weight = 3  # Order that this section will appear.
 
 title = "Wellcome to Zheng Hu Lab"
 
-# Hero image (optional). Enter filename of an image in the `static/img/` folder.
-# demo_media = "Shezhen.jpg"
+# First image (optional). Enter filename of an image in the `static/img/` folder.
+first_media = "Shenzhen.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
