@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "Shenzhen3.png"  # Name of image in `static/media/`.
+  image = "Shenzhen.png"  # Name of image in `static/media/`.
   # image_darken = 0.8  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
