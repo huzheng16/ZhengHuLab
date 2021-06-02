@@ -65,4 +65,4 @@ user_groups:
 - Visiting Students
 ---
 
-Shaoqing Chen is a PhD student in School of Mathematics, Xiamen University (Advisor: Prof. Da Zhou) and now visiting in Hu lab. She is interested in harnessing genomic data and mathematical models to understand the evolutionary dynamics of immune escape in tumor evolution.
+Shaoqing is a PhD student in School of Mathematics, Xiamen University (Advisor: Prof. Da Zhou) and now visiting in Hu lab. She is interested in harnessing genomic data and mathematical models to understand the evolutionary dynamics of immune escape in tumor evolution.
