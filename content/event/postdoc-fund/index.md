@@ -36,4 +36,3 @@ authors:
 ---
 
 This postdoc grant will support Zhaolian to develop computational methods for analyzing single cell lineage tracing data.
-http://jj.chinapostdoctor.org.cn/website/showinfo.html?infoid=77b838a7-8b66-49ff-accd-9222babf4c71
