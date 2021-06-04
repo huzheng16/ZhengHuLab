@@ -3,7 +3,7 @@
 title = "Delineating the tempo and mode of tumor evolution through space and time"
 
 # Date this page was created.
-# date = 2019-10-14T16:32:42+13:00
+date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
 summary = "We leverage multi-region, longitudinal, and/or single-cell genomic data combined with agent-based computational model to reveal the quantitative principles for the evolutionary dynamics of tumor growth and metastasis."
