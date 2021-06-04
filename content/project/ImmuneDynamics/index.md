@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "How immune microenvironments shape the evolutionary patterns of cancer subpopulations?"
+title = "The evolutionary patterns of cancer subpopulations under immune selection"
 
 # Date this page was created.
 # date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "We integrate multi-region omic data to decipher how immune dynamics impacts clonal evolution and selects immune-evading cancer cells in subclonal and single cell level."
+summary = "We integrate multi-region sequencing, single cell transcriptomics and computational models to understand how cancer cells evolve to escape our immune surveillance and how immune selection drive the evolutionary trajectories of cancer cells."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -44,4 +44,4 @@ url_slides = ""
   focal_point = "Smart"
 +++
 
-We integrate multi-region omic data to decipher how immune dynamics impacts clonal evolution and selects immune-evading cancer cells in subclonal and single cell level.
+Our immune system confer a strong selective pressure on cancer cells. However, how cancer cells evolve to escape the immune surveillance is poorly understood. We integrate multi-region sequencing, single cell transcriptomics and computational models to understand how cancer cells evolve to escape our immune surveillance and how immune selection drive the evolutionary trajectories of cancer cells.
