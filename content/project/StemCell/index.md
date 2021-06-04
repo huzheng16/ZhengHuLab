@@ -3,7 +3,7 @@
 title = ”The clonal dynamics of stem cells during tissue development and renewal"
 
 # Date this page was created.
-date = 2020-10-15T16:32:42+13:00
+# date = 2020-10-15T16:32:42+13:00
 
 # Project summary to display on homepage.
 summary = "We combine lineage tracing, single-cell transcriptomics and mathematical models to study the clonal dynamics of stem cells during tissue development and renewal."
@@ -22,8 +22,8 @@ summary = "We combine lineage tracing, single-cell transcriptomics and mathemati
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
-video_src = "https://github.com/huzheng16/ZhengHuLab/blob/master/content/project/ComputationalModeling/neutral-fast.mp4"
-controls = "yes"
+# video_src = "https://github.com/huzheng16/ZhengHuLab/blob/master/content/project/ComputationalModeling/neutral-fast.mp4"
+# controls = "yes"
 
 # Links (optional).
 url_pdf = ""
