@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Computational modeling of tumor evolution through space and time"
+title = "Delineating the tempo and mode of tumor evolution through space and time"
 
 # Date this page was created.
 # date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "We develop agent-based computational model to depict tumor clonal evolution through space and time."
+summary = "We leverage multi-region, longitudinal, and/or single-cell genomic data combined with agent-based computational model to reveal the quantitative principles for the evolutionary dynamics of tumor growth and metastasis."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -46,4 +46,4 @@ url_slides = ""
   focal_point = "Smart"
 +++
 
-Tumor progression is a complex process involving extensive spatial and temporal variability and dynamic interteration between cancer cells and microenvironments. We develop agent-based computational models to depict the tumor clonal evolution through space and time. We also leverage multi-region and/or longitudinal genomic data to calibrate the computational model with aims to infer patient’s tumor evolutionary history and quantify the evolutionary dynamics during tumor initiation, progression and metastasis.
+Cancer is a somatic evolutionary process fueled by genetic or epigenetic mutations in the genome. However, our understanding on the principles of cancer genomic evolution through time and space is very limited. We develop cutting-edge computational methods to analyze multi-region, longitudinal and/or single-cell genomic data. We also develop agent-based models based on virtual tumor simulation to generate quantitative insights into the evolutionary dynamics of tumor growth and metastasis.
