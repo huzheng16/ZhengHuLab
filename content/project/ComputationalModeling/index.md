@@ -46,4 +46,7 @@ url_slides = ""
   focal_point = "Smart"
 +++
 
-Cancer is a somatic evolutionary process fueled by genetic or epigenetic mutations in the genome. However, our understanding on the principles of cancer genomic evolution through time and space is very limited. We develop cutting-edge computational methods to analyze multi-region, longitudinal and/or single-cell genomic data. We also develop agent-based models based on virtual tumor simulation to generate quantitative insights into the evolutionary dynamics of tumor growth and metastasis.
+Tumor is a somatic evolutionary process driven by genetic or epigenetic mutations in the genome and Darwinian selection from the tumor microenvironment. However, our understanding on the principles of tumor evolution through time and space is very limited. We develop cutting-edge evolutionary and computational methods to analyze multi-region, longitudinal and/or single-cell genomic data. We also develop agent-based models based on virtual tumor simulation to generate quantitative insights into the evolutionary dynamics of tumor growth and metastasis. We are particularly interested in:
+1. How the evolutionary forces (e.g. mutation, drift, selection and spatial structure) interact to  drive intra-tumor heterogeneity (ITH) collectively during the courses of tumor growth, metastasis and treatment?
+2. When and how metastasis occurs during the growth of primary tumor and how to predict and prevent metastatic progression?
+3. How does treatment shape tumor evolutionary trajectories?
