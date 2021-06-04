@@ -3,7 +3,7 @@
 title = "The clonal dynamics of stem cells during tissue development and renewal"
 
 # Date this page was created.
-date = 2020-10-15T16:32:42+13:00
+# date = 2020-10-15T16:32:42+13:00
 
 # Project summary to display on homepage.
 summary = "We combine lineage tracing, single-cell transcriptomics and mathematical models to study the clonal dynamics of stem cells during tissue development and renewal."
