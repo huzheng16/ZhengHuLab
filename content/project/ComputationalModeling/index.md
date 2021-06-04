@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Delineating the tempo and mode of tumor evolution through space and time"
+title = "The tempo and mode of tumor evolution through space and time"
 
 # Date this page was created.
 date = 2019-10-14T16:32:42+13:00
