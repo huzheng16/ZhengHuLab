@@ -5,10 +5,12 @@ authors:
 - Zhaolian Lu
 - Beina Nie
 - Weiwei Zhai
-- Zheng Hu*
+- Zheng Hu
 author_notes:
 - ""
 - ""
+- ""
+- "Corresponding author"
 date: "2021-06-04T00:00:00Z"
 # doi: "https://doi.org/10.1016/j.cels.2016.07.007"
 
