@@ -3,7 +3,7 @@
 title = "Computational methods for single-cell lineage tracing data"
 
 # Date this page was created.
-# date = 2019-05-15T16:32:42+13:00
+date = 2019-05-15T16:32:42+13:00
 
 # Project summary to display on homepage.
 summary = "We develop computational methods for analyzing single-cell lineage tracing and transcriptomic data, with an aim to understand the population dynamics of somatic cells during tissue development and tumor initiation."
