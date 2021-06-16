@@ -1,5 +1,5 @@
 ---
-title: Congrats to Zhaolian on receiving the 69th China Postdoctoral Science Foundation! (第69批中国博士后科学基金)
+title: Congrats to Zhaolian on receiving the 69th China Postdoctoral Science Award! (第69批中国博士后科学基金)
 subtitle: 
 
 # Link this post with a project
