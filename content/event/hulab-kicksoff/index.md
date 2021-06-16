@@ -1,5 +1,5 @@
 ---
-title: Hu lab kicks off at SIAT Chinese Academy of Sciences, Hooray!!
+title: Hu lab kicks off at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. Hooray!!
 subtitle: 
 
 # Summary for listings and search engines
