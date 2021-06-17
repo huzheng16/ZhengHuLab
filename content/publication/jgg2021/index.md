@@ -24,7 +24,7 @@ date: "2021-06-04T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Genetics and Genomics*, In revision"
+publication: "*Journal of Genetics and Genomics*, In press"
 publication_short: ""
 
 # abstract: A new computational method illuminates the heterogeneity and evolutionary histories of cells within a tumor.
