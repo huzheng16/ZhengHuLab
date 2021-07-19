@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Assistants
+- Research Assistants (RA)
 ---
 
 Hao Zhang is a Research Assistant in Hu lab at SIAT. He is intereated in decoding the genomic evolution of metastasis.
