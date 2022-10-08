@@ -22,7 +22,7 @@ bio:
 
 interests:
 - Cancer immunotherapy
-- Functional screening
+- Functional screen
 
 education:
   courses:
@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:x.wang@siat.ac.cn'
+  link: 'mailto:xjy005357@siat.ac.cn'
 - icon: twitter
   icon_pack: fab
   link: 
@@ -68,4 +68,4 @@ user_groups:
 - Postdoctoral Fellows
 ---
 
-Juanzhen is a postdoctoral fellow in Hu lab. She is interested in systematic functional sceen of regulatory factors for cancer immunotherapy using a new method called synthetic TF library. 
+Juanzhen is a postdoctoral fellow in Hu lab. She is interested in systematic functional sceen of the regulatory factors for cancer immunotherapy using a new method called synthetic TF library. 
