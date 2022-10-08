@@ -36,8 +36,8 @@ publishDate: "2022-10-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*BioRxiv, 2022.10.06.511094"
-publication_short: "*BioRxiv, 2022.10.06.511094"
+publication: "*BioRxiv*, 2022.10.06.511094"
+publication_short: "*BioRxiv*, 2022.10.06.511094"
 
 abstract: Single-cell RNA-sequencing (scRNA-seq) enables systematic mapping of cellular differentiation trajectories. However, inferring the cell-fate transitions under diseases or perturbations is still challenging due to the high cellular plasticity. Here, we demonstrate that monotonically expressed genes (MEGs) along cell divisions record the directions of state transitions regardless of the cellular processes. We developed a computational framework (PhyloVelo) to identify MEGs and reconstruct a novel transcriptomic velocity field by leveraging both scRNA-seq and phylogenetic information. PhyloVelo accurately recovered linear, bifurcated and convergent differentiations in simulations and C. elegans. It outperformed current approaches for delineating cellular trajectories in embryo development and tumor evolution through analysis of five CRISPR/Cas9-based lineage tracing datasets. Together, our study unveils an internal cellular clock and provides a powerful method for cell-fate analysis in diverse biological contexts.
 
