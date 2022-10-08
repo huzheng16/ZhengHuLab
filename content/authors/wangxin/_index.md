@@ -69,4 +69,4 @@ user_groups:
 - Postdoctoral Fellows
 ---
 
-Xin Wang is a postdoctoral fellow in Hu lab. He is interested in leveraging lineage tracing and single-cell omics technologies (scRNA-seq, scATAC, etc) to decipher the origin and mechanisms of cancer drug resistance.
+Xin is a postdoctoral fellow in Hu lab. He is interested in leveraging lineage tracing and single-cell omics technologies (scRNA-seq, scATAC, etc) to decipher the origin and mechanisms of cancer drug resistance.
