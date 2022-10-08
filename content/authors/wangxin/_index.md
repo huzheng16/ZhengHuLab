@@ -22,8 +22,8 @@ bio:
 
 interests:
 - Single-cell genomics
-- Lineage Tracing
-- Drus resistance
+- Lineage tracing
+- Drug resistance
 
 education:
   courses:
