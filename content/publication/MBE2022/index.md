@@ -10,9 +10,8 @@ authors:
 - Jin Xu
 
 author_notes:
-- ""
-- ""
-- ""
+- "contributed equally"
+- "contributed equally"
 - ""
 - ""
 - "Corresponding author"
