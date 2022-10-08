@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Computational methods for single-cell lineage tracing data"
+title = "Computational methods for analyzing single-cell lineage tracing data"
 
 # Date this page was created.
 date = 2019-05-15T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "We develop computational methods for analyzing single-cell lineage tracing and transcriptomic data, with an aim to understand the population dynamics of somatic cells during tissue development and tumor initiation."
+summary = "We develop computational methods for analyzing simultaneous single-cell transcriptomic and lineage tracing data, with an aim to understand the cell-state transitions in organ development and tumor evolution."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -46,5 +46,4 @@ url_slides = ""
   focal_point = "Smart"
 +++
 
-The recent breakthrough of combining single cell transcriptomics and lineage tracing (e.g. using an evolving barcode by CRISPR/Cas9 editing) provides unprecedented opportunity to understand the mechanisms of cell fate decisions. We develop computational methods for analyzing single-cell lineage tracing and transcriptomic data with an aim to understand the population dynamics of somatic cells during tissue development and tumor initiation.
-
+The recent breakthrough of single-cell lineage tracing technologies (e.g. CRISPR/Cas9-based lineage tracing) offers an unprecedented opportunity to study the mechanisms of cell-fate decisions. We develop computational methods for analyzing single-cell RNA-seq and parallel lineage tracing data with an aim to understand the cell-state transitions in organ development and tumor evolution.
