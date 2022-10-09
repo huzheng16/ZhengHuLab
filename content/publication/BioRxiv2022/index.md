@@ -5,9 +5,9 @@ authors:
 - Liangzhen Hou
 - Zhaolian Lu
 - Xin Wang
+- Zhike Zi
 - Weiwei Zhai
 - Xionglei He
-- Jin Xu
 - Christina Curtis
 - Da Zhou
 - Zheng Hu
