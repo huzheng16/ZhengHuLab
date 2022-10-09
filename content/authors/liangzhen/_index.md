@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Liangzhen Hou（赵晓宇)
+title: Liangzhen Hou（侯良振)
 
 # Username (this should match the folder name)
 authors:
@@ -69,4 +69,4 @@ user_groups:
 - Graduate Students
 ---
 
-Liangzhen Hou is a graduate student under the joint PhD program of University of Macau & SIAT. In Hu lab, Liangzhen is interested in quantifying gene regulatory networks be laveraging both scRNA-seq and lineage tracing data.
+Liangzhen is a graduate student under the joint PhD program of University of Macau & SIAT. In Hu lab, Liangzhen is interested in quantifying gene regulatory networks be laveraging both scRNA-seq and lineage tracing data.
