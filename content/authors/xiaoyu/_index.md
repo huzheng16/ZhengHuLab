@@ -21,9 +21,9 @@ role: Graduate Student
 bio: 
 
 interests:
-- Synthetic Biology
-- Cancer Treatment
-- Cancer Evolution
+- Synthetic biology
+- Cancer treatment
+- Cancer evolution
 
 education:
   courses:
@@ -66,4 +66,4 @@ user_groups:
 - Graduate Students
 ---
 
-Xiaoyu Zhao is a graduate student (starting from fall of 2021) in Hu lab at Shenzhen Institute of Advanced Technology. She is interested in applying synthetic biology approaches to engineer bacteria for cancer treatment and detection.
+Xiaoyu is a graduate student in Hu lab. She is interested in applying synthetic biology approaches to engineer bacteria for cancer treatment and detection.
