@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Bioinformatics 
+  - course: PhD student in Bioinformatics 
     institution: University of Macau & Shenzhen Institute of Advanced Technology
     year: 2022-
   - course: MSc in Biological Engineering
