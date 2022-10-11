@@ -18,9 +18,9 @@ bio: Our group intersects evolutionary genetics, cancer genomics and computation
 
 # Interests to show in About widget
 interests:
-- Cancer Evolution
-- Computational Biology
-- Systems & Synthetic Biology
+- Tumor evolution
+- Computational biology
+- Lineage tracing
 
 
 # Highlight the author in author lists? (true/false)
