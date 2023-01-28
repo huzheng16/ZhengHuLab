@@ -6,7 +6,7 @@ title: Hu Lab
 superuser: true
 
 # Role/position/tagline
-role: Institute of Synthetic Biology
+# role: Institute of Synthetic Biology
 
 # Organizations/Affiliations to show in About widget
 organizations:
