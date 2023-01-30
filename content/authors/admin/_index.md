@@ -20,7 +20,7 @@ bio: Our group intersects evolutionary genetics, cancer genomics and computation
 interests:
 - Tumor evolution
 - Computational biology
-- Lineage tracing
+- Single-cell lineage tracing
 
 
 # Highlight the author in author lists? (true/false)
