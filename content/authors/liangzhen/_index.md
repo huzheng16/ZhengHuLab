@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:yc27683@connect.um.edu.mo'
+  link: 
 # - icon: twitter
 #  icon_pack: fab
 #  link: 
