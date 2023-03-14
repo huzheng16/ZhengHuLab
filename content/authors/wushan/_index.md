@@ -40,7 +40,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:s.wu@siat.ac.cn'
+  link: 
 # - icon: twitter
 #  icon_pack: fab
 #  link: 
