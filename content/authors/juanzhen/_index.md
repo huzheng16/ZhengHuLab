@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:xjy005357@siat.ac.cn'
+  link: 
 - icon: twitter
   icon_pack: fab
   link: 
