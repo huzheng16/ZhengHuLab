@@ -41,8 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zhaoxyzd@foxmail.com'
-# - icon: twitter
+  link: 
 #  icon_pack: fab
 #  link: https://twitter.com/ZhaolianLu
 # - icon: google-scholar
