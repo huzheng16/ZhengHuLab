@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:x.wang@siat.ac.cn'
+  link: 
 - icon: twitter
   icon_pack: fab
   link: 
