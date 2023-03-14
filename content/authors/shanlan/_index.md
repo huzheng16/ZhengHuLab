@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:sl.mo@siata.ac.cn'
+  link: 
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/ZhaolianLu
