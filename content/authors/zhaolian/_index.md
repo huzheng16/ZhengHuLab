@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zl.lu@siata.ac.cn'
+  link: 
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ZhaolianLu
+  link: 
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=LDyFLCcAAAAJ&hl=en
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/zhaolianlu
+  link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
