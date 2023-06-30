@@ -1,4 +1,3 @@
-![image](https://github.com/huzheng16/ZhengHuLab/assets/37986050/d6b310df-25e0-40f6-8b45-dfae0639c538)---
 title: "PhyloVelo enhances transcriptomic velocity field mapping using monotonically expressed genes"
 authors:
 - Kun Wang
