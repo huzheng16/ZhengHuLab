@@ -25,11 +25,11 @@ author_notes:
 - ""
 - "Corresponding author"
 - "Corresponding author"
-date: "2023-06-28T00:00:00Z"
-doi: "https://doi.org/10.1101/2022.10.06.511094"
+date: "2023-07-31T00:00:00Z"
+doi: "https://doi.org/10.1038/s41587-023-01887-5"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-06-28T00:00:00Z"
+publishDate: "2023-07-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -38,10 +38,10 @@ publishDate: "2023-06-28T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature Biotechnology*, In press"
-publication_short: "*Nature Biotechnology*, In press"
+publication: "*Nature Biotechnology*, 2023"
+publication_short: "*Nature Biotechnology*, 2023"
 
-abstract: Single-cell RNA-sequencing (scRNA-seq) is a powerful approach for studying cellular differentiation, but accurately tracking cell-fate transitions can be challenging, especially in disease conditions. Here, we introduce PhyloVelo, a computational framework that estimates the velocity of transcriptomic dynamics by using monotonically expressed genes (MEGs), or genes with expression patterns that either increase or decrease, but don’t cycle, through phylogenetic time. Through integration of scRNA-seq data with lineage information, PhyloVelo identifies MEGs and reconstructs a transcriptomic velocity field. We validate PhyloVelo using simulated data and C. elegans ground-truth data, successfully recovering linear, bifurcated, and convergent differentiations. Applying PhyloVelo to seven lineage-traced scRNA-seq datasets, generated via CRISPR/Cas9 editing, lentiviral barcoding or immune repertoire profiling, demonstrates its high accuracy and robustness in inferring complex lineage trajectories, while outperforming RNA velocity. Additionally, we discover that MEGs across tissues and organisms share similar functions in translation and ribosome biogenesis.
+abstract: Single-cell RNA sequencing (scRNA-seq) is a powerful approach for studying cellular differentiation, but accurately tracking cell fate transitions can be challenging, especially in disease conditions. Here we introduce PhyloVelo, a computational framework that estimates the velocity of transcriptomic dynamics by using monotonically expressed genes (MEGs) or genes with expression patterns that either increase or decrease, but do not cycle, through phylogenetic time. Through integration of scRNA-seq data with lineage information, PhyloVelo identifies MEGs and reconstructs a transcriptomic velocity field. We validate PhyloVelo using simulated data and Caenorhabditis elegans ground truth data, successfully recovering linear, bifurcated and convergent differentiations. Applying PhyloVelo to seven lineage-traced scRNA-seq datasets, generated using CRISPR–Cas9 editing, lentiviral barcoding or immune repertoire profiling, demonstrates its high accuracy and robustness in inferring complex lineage trajectories while outperforming RNA velocity. Additionally, we discovered that MEGs across tissues and organisms share similar functions in translation and ribosome biogenesis.
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -53,7 +53,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: https://www.nature.com/articles/s41467-020-16995-y
+url_pdf: https://www.nature.com/articles/s41587-023-01887-5
 url_code: ''
 url_dataset: ''
 url_poster: ''
