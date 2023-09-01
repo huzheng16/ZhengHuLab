@@ -18,7 +18,7 @@ bio: Our group intersects evolutionary genetics, cancer genomics and computation
 
 # Interests to show in About widget
 interests:
-- Tumor evolution
+- Somatic evolution
 - Computational biology
 - Single-cell lineage tracing
 
