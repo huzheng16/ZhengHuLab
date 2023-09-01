@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hu Laboratory of Tumor Evolution and Computational Medicine
+title: Hu Laboratory of Somatic Evolution and Computational Medicine
 
 # Is this the primary user of the site?
 superuser: true
