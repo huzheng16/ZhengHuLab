@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hu Laboratory
+title: Hu Laboratory of Tumor Evolution and Computational Medicine
 
 # Is this the primary user of the site?
 superuser: true
@@ -27,6 +27,6 @@ interests:
 highlight_name: false
 ---
 
-We study the evolutionary and quantitative principles underlying the clonal expansion, metastasis, drug resistance of cancer cells. This involves understanding both the genomic variations and the underlying evolutionary processes that govern cancer progression and characterize their response to microenvironmental variability and change. We use multi-disciplinary approaches including multi-omics data integration, evolutionary genomics, mathematical/computational models and systems biology to explore tumor-microenvironment interaction dynamics.
+We harness computational and quantitative genomic approaches to decipher the principles of somatic evolution from precancerous cells to malignant transformation and progression. This involves understanding both the genomic variations and the underlying evolutionary processes that govern cancer initiation/progression and characterize their response to microenvironmental/therapeutic variability and pressure.
 
 We’re looking for people who share these interests and are looking for graduate students, postdocs, assistant investigators or research assistants to come join us!
