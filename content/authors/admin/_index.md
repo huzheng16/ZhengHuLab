@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Laboratory of Somatic Evolution and Computational Medicine
+title: Laboratory of Somatic Evolution and Computational Biology
 
 # Is this the primary user of the site?
 superuser: true
