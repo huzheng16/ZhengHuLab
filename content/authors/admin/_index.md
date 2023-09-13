@@ -27,6 +27,6 @@ interests:
 highlight_name: false
 ---
 
-We harness computational and genomic approaches to decipher the principles of somatic evolution from precancerous lesion to malignant transformation and metastatic progression. This involves understanding both the genomic variations and the underlying evolutionary processes of cancer by characterizing their response to microenvironmental/therapeutic pressure.
+We harness computational and genomic approaches to decipher the principles of somatic evolution from precancerous lesion to malignant transformation and metastatic progression. This involves understanding both the genomic variations and the underlying evolutionary processes of cancer by characterizing their response to microenvironmental or therapeutic pressures.
 
-We’re looking for people who share these interests and are looking for graduate students, postdocs, assistant investigators or research assistants to come join us!
+We’re looking for people who share these interests and are looking for research fellows, postdocs, graduate students or research assistants to come join us!
