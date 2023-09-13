@@ -14,7 +14,7 @@ organizations:
   url: http://english.siat.cas.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Our group intersects evolutionary genetics, cancer genomics and computational modeling to delineate the evolutionary dynamics of tumor growth and metastasis.
+bio: Our group intersects evolutionary genetics, cancer genomics and computational modeling to decipher the evolutionary dynamics of tumor growth and metastasis.
 
 # Interests to show in About widget
 interests:
@@ -27,6 +27,6 @@ interests:
 highlight_name: false
 ---
 
-We harness computational and quantitative genomic approaches to decipher the principles of somatic evolution from precancerous cells to malignant transformation and progression. This involves understanding both the genomic variations and the underlying evolutionary processes that govern cancer initiation/progression and characterize their response to microenvironmental/therapeutic variability and pressure.
+We harness computational and genomic approaches to decipher the principles of somatic evolution from precancerous lesion to malignant transformation and metastatic progression. This involves understanding both the genomic variations and the underlying evolutionary processes of cancer by characterizing their response to microenvironmental/therapeutic pressure.
 
 We’re looking for people who share these interests and are looking for graduate students, postdocs, assistant investigators or research assistants to come join us!
