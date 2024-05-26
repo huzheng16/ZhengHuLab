@@ -49,7 +49,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Nature Communications*, 2024"
-publication_short: "*Nat Commun*, 2024"
+publication_short: "*Nature Communications*, 2024"
 
 abstract: Solid tumors are complex ecosystems with heterogeneous 3D structures, but the spatial intra-tumor heterogeneity (sITH) at the macroscopic (i.e., whole tumor) level is under-explored. Using a phylogeographic approach, we sequence genomes and transcriptomes from 235 spatially informed sectors across 13 hepatocellular carcinomas (HCC), generating one of the largest datasets for studying sITH. We find that tumor heterogeneity in HCC segregates into spatially variegated blocks with large genotypic and phenotypic differences. By dissecting the transcriptomic heterogeneity, we discover that 30% of patients had a “spatially competing distribution” (SCD), where different spatial blocks have distinct transcriptomic subtypes co-existing within a tumor, capturing the critical transition period in disease progression. Interestingly, the tumor regions with more advanced transcriptomic subtypes (e.g., higher cell cycle) often take clonal dominance with a wider geographic range, rejecting neutral evolution for SCD patients. Extending the statistical tests for detecting natural selection to many non-SCD patients reveal varying levels of selective signal across different tumors, implying that many evolutionary forces including natural selection and geographic isolation can influence the overall pattern of sITH. Taken together, tumor phylogeography unravels a dynamic landscape of sITH, pinpointing important evolutionary and clinical consequences of spatial heterogeneity in cancer.
 # Summary. An optional shortened abstract.
