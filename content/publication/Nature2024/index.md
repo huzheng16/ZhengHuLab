@@ -1,71 +1,38 @@
 ---
-title: "Polyclonal-to-monoclonal transition in colorectal precancerous evolution"
+title: "Single-cell phylodynamic inference of tissue development and tumor evolution"
 authors:
-- Zhaolian Lu
-- Shanlan Mo
-- Duo Xie
-- Xiangwei Zhai
-- Shanjun Deng
-- Kantian Zhou
 - Kun Wang
-- Xueling Kang
-- Hao Zhang
-- Juanzhen Tong
-- Liangzhen Hou
-- Huijuan Hu
-- Xuefei Li
-- Da Zhou
-- Leo Tsz On Lee
-- Li Liu
-- Yaxi Zhu
-- Jing Yu
-- Ping Lan
-- Jiguang Wang
-- Zhen He
+- Zhaolian Lu
+- Zeqi Yao
 - Xionglei He
 - Zheng Hu
+- Da Zhou
 
 author_notes:
 - ""
 - ""
 - ""
 - ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
 - "Corresponding author"
 - "Corresponding author"
-- "Corresponding author"
-date: "2024-10-31T00:00:00Z"
-doi: "https://www.nature.com/articles/s41586-024-08133-1"
+date: "2024-10-16T00:00:00Z"
+doi: "https://doi.org/10.1101/2024.05.15.594328"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-10-31T00:00:00Z"
+publishDate: "2024-10-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nature*, 2024"
-publication_short: "*Nature*, 2024"
+publication: "*BioRxiv*, 2024"
+publication_short: "*BioRxiv*, 2024"
 
-abstract: Unravelling the origin and evolution of precancerous lesions is crucial for effectively preventing malignant transformation, yet our current knowledge remains limited. Here we used a base editor-enabled DNA barcoding system to comprehensively map single-cell phylogenies in mouse models of intestinal tumorigenesis induced by inflammation or loss of the Apc gene. Through quantitative analysis of high-resolution phylogenies including 260,922 single cells from normal, inflamed and neoplastic intestinal tissues, we identified tens of independent cell lineages undergoing parallel clonal expansions within each lesion. We also found polyclonal origins of human sporadic colorectal polyps through bulk whole-exome sequencing and single-gland whole-genome sequencing. Genomic and clinical data support a model of polyclonal-to-monoclonal transition, with monoclonal lesions representing a more advanced stage. Single-cell RNA sequencing revealed extensive intercellular interactions in early polyclonal lesions, but there was significant loss of interactions during monoclonal transition. Therefore, our data suggest that colorectal precancer is often founded by many different lineages and highlight their cooperative interactions in the earliest stages of cancer formation. These findings provide insights into opportunities for earlier intervention in colorectal cancer.
+abstract: Phylodynamics inference (PI) is a powerful approach for quantifying population dynamics and evolutionary trajectories of natural species based on phylogenetic trees. The emergence of single-cell lineage tracing technologies now enables the reconstruction of phylogenetic trees for thousands of individual cells within a multicellular organism, opening avenues for employing PI methodologies at the cellular level. However, the intricate process of cell differentiation poses challenges for directly applying current PI frameworks in somatic tissues. Here, we introduce a novel computational approach called single-cell phylodynamic explorer (scPhyloX), designed to model structured cell populations in various cell states, by leveraging single-cell phylogenetic trees to infer dynamics of tissue development and tumor evolution. Our comprehensive simulations demonstrate the high accuracy of scPhyloX across various biological scenarios. Application of scPhyloX to three real datasets of single-cell lineage tracing unveils novel insights into somatic dynamics, such as the overshoot of cycling stem cell populations in fly organ development, clonal expansion of multipotent progenitors of hematopoiesis during human aging, and pronounced subclonal selection in early colorectal tumorigenesis. Thus, scPhyloX is an innovative computational method for investigating the development and evolution of somatic tissues.
+
 # Summary. An optional shortened abstract.
 summary: ""
 
@@ -76,7 +43,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/articles/s41586-024-08133-1
+url_pdf: https://www.biorxiv.org/content/10.1101/2024.05.15.594328v1
 url_code: ''
 url_dataset: ''
 url_poster: ''
